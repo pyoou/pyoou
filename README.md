@@ -39,7 +39,7 @@
 
 ## Contact Me
 <a href="mailto:grzybowski.jakub@outlook.com">
-    <img src="https://github.com/pyoou/pyoou/blob/main/assets/icons/icons8-gmail-50.png" alt="outlook" />
+    <img src="https://github.com/pyoou/pyoou/blob/main/assets/icons/icons8-microsoft-outlook-50.png" alt="outlook" />
 </a>
 <a href="https://www.linkedin.com/in/jakub-grzybowski-b130211b1/">
     <img src="https://github.com/pyoou/pyoou/blob/main/assets/icons/icons8-linkedin-50.png" alt="linkedIn" />
