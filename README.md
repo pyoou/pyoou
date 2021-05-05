@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css" />
 ## Hi there, I'm Jakub 👋
 
 <!--
@@ -14,7 +15,6 @@
 
 
 ### Languages and Tools
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
 
 <i class="devicon-python-plain-wordmark colored" style="font-size: 48px"></i>
 <i class="devicon-bootstrap-plain-wordmark colored" style="font-size: 48px"></i>
