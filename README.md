@@ -39,6 +39,8 @@
 
 
 ## Contact Me
+<img align="right" src="https://github.com/pyoou/pyoou/blob/main/assets/call_me.gif" alt="code" width="300px" height="150px" />
+
 <a href="mailto:grzybowski.jakub@outlook.com">
     <img src="https://github.com/pyoou/pyoou/blob/main/assets/icons/icons8-microsoft-outlook-50.png" alt="outlook" />
 </a>
