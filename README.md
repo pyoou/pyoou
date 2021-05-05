@@ -48,6 +48,6 @@
     <img src="https://github.com/pyoou/pyoou/blob/main/assets/icons/icons8-linkedin-50.png" alt="linkedIn" />
 </a>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
