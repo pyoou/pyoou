@@ -7,7 +7,7 @@
 
 ##Simple about me 💬
 ####Actually I'm high school student
-<img align="right" src="https://github.com/pyoou/pyoou/blob/main/assets/code.gif" alt="code" width="340px" height="250px" />
+<img align="right" src="https://github.com/pyoou/pyoou/blob/main/assets/code.gif" alt="code" width="300px" height="150px" />
 - 🔭 I’m currently working to be a full stack developer.
 - 🌱 I’m currently learning reactJs.
 - 👯 I’m looking to collaborate with others young enthusiasts.
