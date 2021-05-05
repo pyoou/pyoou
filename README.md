@@ -14,16 +14,27 @@
 
 
 ### Languages and Tools
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="Python" height="40" style="vertical-align:top;margin:4px">
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="Python" height="40" style="vertical-align:top; margin:4px"/>
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Python" height="40" style="vertical-align:top; margin:4px"/>
-<img align="left" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Python" height="40" style="vertical-align:top; margin:4px"/>
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Python" height="40" style="vertical-align:top; margin:4px"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
+
+<i class="devicon-python-plain-wordmark colored" style="font-size: 48px"></i>
+<i class="devicon-bootstrap-plain-wordmark colored" style="font-size: 48px"></i>
+<i class="devicon-css3-plain-wordmark colored" style="font-size: 48px"></i>
+<i class="devicon-django-plain-wordmark colored" style="font-size: 48px"></i>
+<i class="devicon-github-original-wordmark colored" style="font-size: 48px"></i>
+<i class="devicon-git-plain-wordmark colored" style="font-size: 48px"></i>
+<i class="devicon-google-plain-wordmark colored" style="font-size: 48px"></i>
+<i class="devicon-html5-plain-wordmark colored" style="font-size: 48px"></i>
+<i class="devicon-javascript-plain-wordmark colored" style="font-size: 48px"></i>
+<i class="devicon-materialui-plain-wordmark colored" style="font-size: 48px"></i>
+<i class="devicon-nodejs-plain-wordmark colored" style="font-size: 48px"></i>
+<i class="devicon-postgresql-plain-wordmark colored" style="font-size: 48px"></i>
+<i class="devicon-pycharm-plain-wordmark colored" style="font-size: 48px"></i>
+<i class="devicon-react-original-wordmark colored" style="font-size: 48px"></i>
+<i class="devicon-slack-plain-wordmark colored" style="font-size: 48px"></i>
+<i class="devicon-windows8-original colored" style="font-size: 48px"></i>
+
+## contact
+<i class="devicon-linkedin-plain colored"></i>
 
 
 
