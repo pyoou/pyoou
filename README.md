@@ -1,10 +1,4 @@
 ## Hi there, I'm Jakub 👋
-
-<!--
-**pyoou/pyoou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 📫 How to reach me: ...
--->
-
 ##Simple about me 💬
 
 ####Actually I'm high school student
