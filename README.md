@@ -1,9 +1,10 @@
 ## Hi there, I'm Jakub 👋
 
 ####Simple about me 💬
-Actually I'm high school student
+
 
 <img align="right" src="https://github.com/pyoou/pyoou/blob/main/assets/code.gif" alt="code" width="300px" height="150px" />
+- Actually I'm high school student. </br>
 - 🔭 I’m currently working to be a full stack developer.</br>
 - 🌱 I’m currently learning reactJs.</br>
 - 👯 I’m looking to collaborate with other young enthusiasts.</br>
