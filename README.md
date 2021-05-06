@@ -4,11 +4,11 @@
 Actually I'm high school student
 
 <img align="right" src="https://github.com/pyoou/pyoou/blob/main/assets/code.gif" alt="code" width="300px" height="150px" />
-- 🔭 I’m currently working to be a full stack developer.
-- 🌱 I’m currently learning reactJs.
-- 👯 I’m looking to collaborate with other young enthusiasts.
-- 💬 Ask me about everything, maybe I won't let you answer at all, but I can think with you.
-- ⚡ Fun fact: Most of the time, I'm looking for a cup with auto-filling.
+- 🔭 I’m currently working to be a full stack developer.</br>
+- 🌱 I’m currently learning reactJs.</br>
+- 👯 I’m looking to collaborate with other young enthusiasts.</br>
+- 💬 Ask me about everything, maybe I won't let you answer at all, but I can think with you.</br>
+- ⚡ Fun fact: Most of the time, I'm looking for a cup with auto-filling.</br>
 
 
 ## Languages and Tools
