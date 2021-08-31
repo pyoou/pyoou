@@ -1,6 +1,6 @@
 ## Hi there, I'm Jakub 👋
 
-####Simple about me 💬
+###Simple about me 💬
 
 
 <img align="right" src="https://github.com/pyoou/pyoou/blob/main/assets/code.gif" alt="code" width="300px" height="150px" />
