@@ -4,11 +4,10 @@ Simple about me 💬
 
 
 <img align="right" src="https://github.com/pyoou/pyoou/blob/main/assets/code.gif" alt="code" width="300px" height="150px" />
-- 🎓 Actually I'm high school student. </br>
-- 🔭 I’m currently working to be a full stack developer.</br>
-- 🌱 I’m currently learning reactJs.</br>
-- 👯 I’m looking to collaborate with other young enthusiasts.</br>
-- 💬 Ask me about everything, maybe I won't let you answer at all, but I can think with you.</br>
+- 🎓 I'm a student. </br>
+- 🔭 At the future I want to be an automation engineer.</br>
+- 👯 I’m open for hobbist projects</br>
+- 💬 Ask me about everything, two heads thinks better sometimes.</br>
 - ⚡ Fun fact: Most of the time, I'm looking for a cup with auto-filling.</br>
 
 
@@ -27,12 +26,12 @@ Simple about me 💬
 <img src="https://github.com/pyoou/pyoou/blob/main/assets/icons/icons8-windows-xp-50.png" alt="windows" width="50px" height="50px" />
 
 ## Hobbies
-* ✨ Reading About New Technologies
-* ✨ Watching Anime
-* ✨ Gaming Addict
-* ✨ Old Music Addict
+* ✨ Read and Study New Technologies
+* ✨ Watch Pixar and Marvel movies
+* ✨ Try my best in games
+* ✨ 90'/00' Music Addict
 * ✨ Volleyball
-* ✨ Crying About Last Season Game Of Thrones
+* ✨ Cry About Last Season Game Of Thrones
 
 
 ## Contact Me
